@@ -1,14 +1,15 @@
 # find-me
 
 
-to find anyone in social ...
+# to find anyone in social ...
+
+# Use :
+
+```
+$ git clone https://github.com/d5tr/find-me.git
 
 
+$ cd find-me 
 
-easy to used !
-
-
-instagram ---> @d_5tr
-
-
-
+$ python3 find-me
+```
